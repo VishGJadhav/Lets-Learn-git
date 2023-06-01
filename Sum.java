@@ -4,6 +4,6 @@ public class Sum
         int a = 10 ;
         int b = 20 ;
 
-        System.out.println("addition of two numbers: "+ a+b);
+        System.out.println("addition of two numbers is : "+ a+b);
     }
 }
