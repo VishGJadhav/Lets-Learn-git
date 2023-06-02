@@ -3,6 +3,6 @@ public class Multiply {
         int a = 15 ;
         int b = 25 ;
 
-        System.out.println("Multiplication of two numbers is: "+(b*a));
+        System.out.println("Multiplication : "+(b*a));
     }
 }
